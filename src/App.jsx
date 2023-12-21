@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 import styles from './App.module.css';
 import TodoCount from './components/TodoCount.jsx';
 import TodoAdd from './components/TodoAdd.jsx';
